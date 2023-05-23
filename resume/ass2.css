@@ -1,0 +1,102 @@
+
+body{
+    margin: 0px;
+    text-transform: capitalize;
+    background-color: rgba(249, 230, 171, 0.708);
+}
+
+.head{display: flex;
+    height:70px;
+    width: 100%;  
+    border: 2px solid gray;
+    background: rgb(4, 4, 4);
+
+}
+.nav{
+   
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-top: 25px;
+
+}
+.head .nav a{
+    color: rgb(170, 157, 157);
+    font-size:x-large;
+    margin-left: 50px; 
+}
+
+.btn{
+    margin-top: 20px;
+    margin-left:200px ;
+    height: 40px;
+    width: 150px;
+    background-color: rgb(236, 236, 14);
+    border-radius: 510px;
+       
+}
+.ben{ width: 300px;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    margin-left: 50px;
+}
+.para{
+    float:right;
+    margin-right: 450px;
+    margin-top: 150px;
+
+}
+
+.image{
+    margin-left: 200px;
+    margin-top: 70px;
+}
+.hand{
+    margin-left: 25px;
+    height: 30px;
+    width: 30px;
+
+}
+.box1{
+    border-radius: 12px;
+    width: 300px;
+    color: white;
+    background-color: black;
+    font-size: large;
+
+    
+}
+.box2{
+    background-color: yellow;
+    width: 200px;
+    border-radius: 12px;
+    height: 20px;
+    padding: 10px;
+
+}
+.box2 a{
+    color:black;
+}
+.resu{
+    display: flex;
+    
+}
+.rb1{float: left;
+    margin-left: 250px;
+    font-size: larger;
+
+}
+.rb2{
+    float: right;
+    margin-left: 70px;
+
+  
+}
+.rb2 img{
+    height: 400px;
+    width: 400px;
+    border-radius: 15px;
+}
+.l{
+    margin-left: 250px;
+}
